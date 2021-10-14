@@ -1,0 +1,35 @@
+[7] M. Castro and B. Liskov. Practical byzantine fault tolerance and proactive recovery. ACM Trans. Comput. Syst., 20(4):398–461, 2002.
+[20] Proof of Authority. https://github.com/paritytech/parity/wiki/Proof-of-Authority-Chains.
+[5] T. T. A. Dinh, J. Wang, G. Chen, R. Liu, B. C. Ooi, and K.-L. Tan, “BLOCKBENCH: A Framework for Analyzing Private Blockchains,” Proceedings of the 2017 ACM International Conference on Management of Data - SIGMOD ’17, pp. 1085–1100, 2017
+
+[11]C.Cachin. Architecture of the hyperledger blockchain fabric. In Workshop on Distributed Cryptocurrencies and Consensus Ledgers, 2016.
+[9]R3 Corda. https://github.com/corda/corda/.
+[18] Multichain. https://www.multichain.com/
+
+[19] S. Nakamoto. Bitcoin: A peer-to-peer electronic cash system, 2008. Available at https://bitcoin. org/bitcoin.pdf.
+[3] J. Sousa, A. Bessani, and M. Vukolic, “A Byzantine fault-tolerant ordering service for the hyperledger fabric blockchain platform,” in 2018 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN). IEEE, 2018, pp. 51–58. 
+[4] M. Yin, D. Malkhi, M. K. Reiter, G. Golan Gueta, and I. Abraham, “HotStuff: BFT Consensus in the Lens of Blockchain,” arXiv preprint arXiv:1803.05069, 2018.
+[6] P. Thakkar, S. Nathan, and B. Vishwanathan, “Performance Benchmarking and Optimizing Hyperledger Fabric Blockchain Platform,” arXiv, 2018.
+FastFabric: Scaling Hyperledger Fabric to 20,000 Transactions per Second
+[12
+]J. A. Garay, A. Kiayias, and N. Leonardos. The Bitcoin Backbone Protocol: Analysis and Applications, volume 9057 of LNCS, pages 281–310. Springer, 2015.	
+[2] M. Vukolic, “The quest for scalable blockchain fabric: Proof-of-work ´ vs. bft replication,” in International Workshop on Open Problems in Network Security. Springer, 2015, pp. 112–125
+
+[5] C. Cachin, R. Guerraoui, and L. Rodrigues. Introduction to reliable and secure distributed programming. Springer, 2011.
+
+
+
+[1]Miguel, Castro, Barbara, et al. Practical byzantine fault tolerance and proactive recovery[J]. ACM Transactions on Computer Systems, 2002, 20(4):398-461.
+[2]OpenEthereum. Proof of Authority[EB/OL]. [2021.10.15]. https://github.com/paritytech/parity/wiki/Proof-of-Authority-Chains
+[3]Dinh T, Wang J, Chen G, et al. BLOCKBENCH: A Framework for Analyzing Private Blockchains[J].  2017.
+[4]Christian Cachin. Architecture of the hyperledger blockchain fabric[EB/OL]. 2016[2021]. https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf.
+[5]Corda. R3 Corda[EB/OL]. [2021]. https://github.com/corda/corda/.
+[6]Gideon Greenspan. Multichain[EB/OL]. [2021]. https://www.multichain.com/.
+[7]Bitcoin: A Peer-to-Peer Electronic Cash System[J]. Social Science Electronic Publishing.
+[8]Bessani A, Sousa J, Vukoli M. A Byzantine Fault-Tolerant Ordering Service for the Hyperledger Fabric Blockchain Platform[C]// the 1st Workshop. IEEE Computer Society, 2017.
+[9]Yin M, Malkhi D, Reiter M K, et al. HotStuff: BFT Consensus in the Lens of Blockchain[J]. 2018.
+[10]Nathan S, Thakkar P, Vishwanathan B. Performance Benchmarking and Optimizing Hyperledger Fabric Blockchain Platform[C]// 2018 IEEE 26th International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS). IEEE, 2018.
+[11]Gorenflo C, Lee S, Golab L,et al. FastFabric: Scaling hyperledger fabric to 20000 transactions per second[J]. International Journal of Network Management, 2020, 30(5).
+[12]Garay J, Kiayias A, Leonardos N. The Bitcoin Backbone Protocol: Analysis and Applications[C]// Springer Berlin Heidelberg. Springer Berlin Heidelberg, 2015.
+[13]Vukoli M. The Quest for Scalable Blockchain Fabric: Proof-of-Work vs. BFT Replication[C]// International Workshop on Open Problems in Network Security. Springer International Publishing, 2016.
+[14]Cachin C, Guerraoui R, Luís Rodrigues. Introduction to reliable and secure distributed programming[M]. 6. Springer, 2011 :281-339.
